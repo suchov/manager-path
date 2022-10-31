@@ -153,7 +153,25 @@ establish new ones. That not only takes much more time than conventional trainin
 programs, it also requires and individualized approach.
 
 Imagine an executive who is thought to be low on empathy by her colleagues. Part of 
-that deficit shows itself as an inability to listen; she
+that deficit shows itself as an inability to listen; she interrupts people and doesn't
+pay close attention to what they're saying. To fix the problem, the executive needs
+to be motivated to change, and then she needs practice and feedback from others in the
+company. A colleague or coach could be tapped to let the executive know then she has been
+observed failing to listen. She would then have to replay the incident and give a better
+response; that is, demonstrate her ability to absorb what others are saying. And the
+executive could be directed to observe certain executives who listen well and to mimic 
+their behavior. 
+
+With persistence and practice, such a process can lead to lasteing results. I know one 
+Wall Street executive who sought to improve his empathy - specifically his ability to 
+read people's reactions and see their perspectives. Before beginning his quest, the 
+executive's subordinates were terrified of working with him. People even went so far as
+to hide bad news from him. Naturally, he was shocked when finally confronted with these
+facts. He went home and told his family - but they only confirmed what he had heard at 
+work. When their opinions on any given subject did not mesh with his, they too, were 
+frightened of him.
+
+
 
 
 
