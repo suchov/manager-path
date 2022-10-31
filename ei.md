@@ -1,4 +1,4 @@
-Evaluating Emotional Intelligence
+## Evaluating Emotional Intelligence
 
 Most large companies today have employed trained psychologists to develop what are known 
 as “competency models” to aid them in identifying, training, and promoting likely stars 
@@ -22,7 +22,7 @@ the creation of lists of ingredients for hightly effective leaders. The lists ra
 lenght from seven to 15 items and included such ingredients as initiative and strategic
 vision.
 
-Idea in Brief
+### Idea in Brief
 
 What distinguishes great leaders from merely good ones? It isn't IQ or technical skills,
 says Daniel Goleman. It's emotional intelligence: a group of five skills that enable the 
@@ -30,7 +30,7 @@ best leaders to maximize their own and their followers' performance. When senior
 at one company had a critical mass of EI capabilities, hteir divisions outperformed yearly
 earnings goals by 20%.
 
-The EI skills are:
+#### The EI skills are:
 
 - Self-awarness - knowing one's strenghts, weaknesses, drives, values and impact on others
 - Self-regulation - controlling or redirecting disruptive impulses and moods
@@ -55,9 +55,9 @@ reason for his or her effectiveness. When I compared star performers with averag
 in senior leadership postion, nearly 90% of the difference in their profiles was 
 attributable to emotional intelligence factors rather than cognitive abilities. 
 
-Idea in Practice
+### Idea in Practice
 
-Understanding EI's Components
+#### Understanding EI's Components
 
 | EI Component | Definition | Hallmarks | Example |
 | -- | -- | -- | -- |
@@ -67,9 +67,9 @@ Motivation | Being driven to achieve for the sake of achievement | * A passion f
 Empathy | Considering others' feelings, especially when making decisions | * Expertise in attracting and retainig talent * Ability to develop others * Sensitivity to cross-cultural differences | An American consultant and her team pitch a project to a potential client in Japan. Her team interprets the client's silence as disapproval, and prepares to leave. The consultant reads the client's body language and senses interest. She continues the meeting, and her teams gets the job. |
 Social Skill | Managing relationships to move people in desired directions | * Effectiveness in leading change * Persuasiveness * Extensive networking * Experience in building and leading teams | A manager wants his company to adopt a better Internet strategy. He finds kindred spirits and assembles a de facto team to create prototype Web site. He persuades allies in other divisions to fund the company's participation in a relevant convention. His company forms an Internet division - and puts him in charge of it. |
 
-Strengthening Your EI
+### Strengthening Your EI
 
-Use practice and feedback from others to strengthen specific EI skills.
+#### Use practice and feedback from others to strengthen specific EI skills.
 
 Example: An executive learned from others that she lacked empathy, especially the ability
 to listen. She wanted to fix the problem, so she asked a coach ot tell her when she 
@@ -80,6 +80,7 @@ skilled at listening - and imitated their behaviour.
 ## The five components of emotional intelligence at work
 
 | | Definition | Hallmarks | 
+| -- | -- | -- |
 | Self-awarness | The ability to recognize and understand your moods, emotions, and drivers, as well as their effect on others. | Self-confidence Realistic self-assessment Self-deprecating sense of humor |
 | Self-regulation | The ability to control or redirect disruptive impulses and moods The propernsity to suspend judgment - to think before acting | Trustworthiness and integrity Comfort with ambiguity Openness to change |
 | Motivation | A passion to work for reasons that go beyond money or status A propensity to pursue goals with energy and persistence | Strong drive to achieve Optimism, even in the face of failure Organizational commitment |
