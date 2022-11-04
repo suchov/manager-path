@@ -171,7 +171,36 @@ facts. He went home and told his family - but they only confirmed what he had he
 work. When their opinions on any given subject did not mesh with his, they too, were 
 frightened of him.
 
+Enlisting the help of a coach, the executive went to work to heighten his empathy through
+practice and feedback. His first step was to take a vacation to a foreign country where 
+he did not speak the language. While there, he monitored his reactions to the unfamiliar
+and his openness to people who were different form him. When he returned home, humbled by
+his week abroad, the executive asked his coach to shadow him for parts of the day, several
+times a week, to critique how he treated people with new or different perspectives. At the
+same time, he consciously used on-the-job interactions as opportutities to practice
+"hearing" ideas that differed from him. Finally, the executive had himself videotaped in
+meetings and asked those who worked for and with him to critique his ability to 
+asknowledge and understand the feelings of others. It took several months, but the 
+executive's emotional intelligence did ultimately rise, and the improvement was reflected
+in his overall performance on the job.
 
+It's important to emphasize that building one's EI cannot - will not - happen without
+sincere desire and concerted effort. A brief seminar won't help; nor can one buy a how-to
+manual. It is much harder to learn to empathize - to internalize empathy as a natural 
+response to people - than it is to become adept at regression analysis. But it can be done.
+"Nothing great was ever archived without enthusiasm," wrote Ralph Waldo Emerson. If your
+goar is to become a real reader, these words can serve as a guidepost in your efforts to
+develop high emotional intelligence.
+
+Self-awarness extends to a person's understanding of his or her values and goals. Someone
+who is highly self-aware knows where he is headed and why; so, for example, he will be
+able to be firm in turning down a job offer that is tempting financially but does not fit
+with his principles or long-term goals. A person who lacks self-awareness is apt to make
+decisions that bring on inner turmoil by treading on buried values. "The money looked 
+good so I signed on," someone might say two years into a job, "but the work means so 
+little to me that I'm constantly bored." The decisions of self-aware people mesh with
+their values; consequently, they often find work to be energizing.
+How can one recognize self-awarness?
 
 
 
