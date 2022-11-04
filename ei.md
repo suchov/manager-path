@@ -329,7 +329,75 @@ extreame displays of negative emotion have never emerged as a driver of good lea
 ## Motivation
 
 If there is one trait that virtually all effective leaders have, it is motivation. They 
-are driven to achieve beyond expectations - their own and everyone else's.
+are driven to achieve beyond expectations - their own and everyone else's. The key word
+here is achieve. Plenty of people are motivated by external factors, such as a big salary
+or the status that comes from having an impressive title or being part of a prestigious 
+company. By contrast, those with leadership potential are motivated by a deeply embedded
+desire to achieve for the aske of achievement. 
+
+If you are looking for leaders, how can you identify people who are motivated by the drive
+to achieve rathere than by external rewards? The first sign is a passion for the work 
+itself - such people seek out creative challenges, love to learn, and take great pride in
+a job well done. They aslo display an unflagging energy to do this better. People with such
+energy often seem restless with the status quo. They are persistent with their questions
+about why things are done one way rather than anothere; they are eager to explore new 
+approaches to their work. 
+
+A cosmetic company manger, for example, was frustrated that he had to wait two weeks to 
+get sales results from people in the field. He finally tracked down an automated phone
+system that would beep each of his salespeople at 5p.m. every day. An automated message 
+then prompted them to punch in their numbers - how many calls and sales they had made that
+day. The system shortened the feedback time on sales results from weeks to hours. 
+
+That story illustrates two other common thaits of people who are driven to achieve. They
+are forever rasing the performance bar, and they like to tkeep score. Take the performace
+bar first. During performance reviews, people with high levels of motivation might as to
+be "stretched" by their superiors. Of course, an employee who combines self-awareness
+with internal motivation will recognize her limits - but she won't settle for objectives
+that seem too easy to fulfill.
+
+And it follows naturally that people who are driven to do better also want a way of 
+tracking process - their own, their team's, and their company's. Whereas people with low
+achivements motivation are often fuzzy about results, those with high achievemnt motivation
+often keep score by tracking such hard measures as profitability or market share. I know
+of a money manager who starts and ends his day on the Internet, gaugin the performance of
+his stock fund against four industry-set benchmarks.
+
+Interestingly, people with high motivation remain oprimistic even when the score is aginst
+them. In such cases, self-regulation combines with achievement motivation to oevercome the 
+frustratrion and depression that come after a setback or failure. Thake the case of 
+another portfolio manager at ta large investment company. After several successful years, 
+her fund tumbled for three consecutive quarters, leading three large institutional clients
+to shift their business elsewhere. 
+
+Some executives would have blamed the nosedive on circumstances outside their control;
+others might have seen the setback as evidence of persolan failure. This portfolio manager,
+however, saw an opportunity to prove she could lead a turaround. Two years later, when she
+was promoted to a very senior level in the company, she described the experience as " the
+best thing that ever happened to me; I learned so much form it."
+
+Executives trying to recognize high levels of achievemtn motivation in their people can
+look for one last of evidence: commitment to the organization. When people love their 
+jobs for the work itself, they often feel committed to the organizations that make that
+work possible. Commited employees are likely to stay with an organization even when they
+are pursued by headhunters waving money.
+
+it's not difficult to understand how and why a motivation to achieve translates into 
+strong leaderhisp. If you set the performance bar high to yourself, you will do the same
+for the organization when you are in a position to do so. Likewise, a drive to surpass 
+goal and an interest in keeping score can be contagious. Leaders with these traits can 
+often build a team of managers around them with the same traits. And of course, optimistm
+and organizational commitment are fundamental to leadership - just try to imagine running
+a company without them.
+
+## Empathy
+
+Of all
+
+## Social Skill
+
+
+
 
 
 
