@@ -200,7 +200,61 @@ decisions that bring on inner turmoil by treading on buried values. "The money l
 good so I signed on," someone might say two years into a job, "but the work means so 
 little to me that I'm constantly bored." The decisions of self-aware people mesh with
 their values; consequently, they often find work to be energizing.
-How can one recognize self-awarness?
+
+How can one recognize self-awarness? First and foremost it shows itself as candor and an
+ability to assess oneself realistically. People with high self-awarness are able to speak
+accurately and openly - althrough not necessarily effusively or confessionally - about 
+their emotions and the impact they have on their work. For instance, one manager I know of
+was skeptical about a new personal-shopper service that her company, a major department-
+store chain, was about to introduce. Without promping from her team or her boss, she 
+offered them an explanation: "It's hard for me to get behind the rollout of this service,"
+she admitted, "because I really wanted to run the project, but I wasn't selected. Bear
+with me while I deal with that." The manager did indeed examine her feelings; a week later,
+she was supporting the project fully. 
+
+Such self-knowledge often shows itself in the hiring process. Ask a candidate to describe
+a time he got carried away by his feelings and did something he later regretted. Self-aware
+candidates will be frank in admitting to failure - and will often tell their tales with
+a smile. One of the hallmarks of self-awareness is a self-deprecating sense of humour.
+
+Self-awarness can also be indentified during performance reviews. Self-aware people know-
+and are comfortable talking about - their limitations and strengths, and they often 
+demonstrate a thirst for constructive criticism. By contrast, people with low self-
+awarness interpret the messages that they need to improve as a threat or a signal of
+failure.
+
+Self-aware people can also be recognized by their slef-confidence. They have a firm grasp
+of their capabilities and are less likely to set themselves up to a fail by, for example,
+overstretching on assignments. They know, too, when to ask for help. And the risks they
+take on the job are calculated. They won't ask for a challenge that they know can't handle
+alone. They'll play to their strenghts.
+
+Consider the actions of a midlevel employee who was invited to sit in on a strategy 
+meeting with her company's top executives. Although she was the most junior person in the
+room, she did not sit there quietly, listening in awestruck of fearful silence. She knew
+she had a head for clear login and the skill to present ideas percuasively, and she 
+offered cogent suggestions aobut the company's strategy. At the same time, her self-
+awarness stopped her from wandering into territory where she knew she was weak.
+
+Despite the value of having self-aware people in the workplace, my research indicates 
+that senior executives don't often give self-awarness the credit it deserves when they
+look for potential leaders. Many executives mistake candor about feelings for "wimpiness"
+and fail to give due respect to employees who openly acknowledge their shortcomings. Such
+people are too readily dismissed as "not tough enought" to lead others.
+
+In fact, the opposite is true. In the first place, people generally admire and respect 
+candor. Furthermore, leaders are constantly required to make judgment calls that require
+to make judgment calls that require a candid assessment of capabilities - their own and 
+those of others. Do we have the management expertise to acquire a competitor? Can we 
+launch a new product within six months? People who assess themselves honeslty - that is, 
+self-aware people - are well sited to do the same for the organization they run.
+
+## Self-Regulation
+
+
+
+
+
 
 
 
