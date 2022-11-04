@@ -251,7 +251,85 @@ self-aware people - are well sited to do the same for the organization they run.
 
 ## Self-Regulation
 
+Biological impulses drive our emorions. We cannot do away with them - but we can do much 
+to manage them. Self-regulation, which is like a ongoing inner conversation, is the
+component of emotional intelligence that frees us from being prisoners of our feelings. 
+People engaged in such a converation feel bad moods and emotional impulses as everyone 
+else does, but they find ways to control them and even to channel them in useful ways.
 
+Imagine an executive who has just watched a team of his employees present a botched
+analysis to the company's board of directors. In the gloom that follows, the executive
+might find himself tempted to pound on the table in anger of kick over a chair. He could
+leap up and scream at the group. Or he might maintain a grim silence, glaring at everyone
+before stalking off.
+
+But if he had a gift for self-regulation, he would choose a different approach. He would
+pick his words carefully, asknowledging the team's poor performance without rushing to 
+any hasty judgment. He would then step back to consider the reasons for the failure. Are
+they personal - a lack of effort? Are there any mitigating factors? What was his role in
+the debacle? After considering these questions, he would call team together, lay out the
+incident's consequences, and offer his feelings aobut it. He would then present his 
+analysis of the problem and well-considered solution.
+
+Why does self-regulation matter so much for leaders?
+First of all, people who are in control of their feelings and impulses - that is, people
+who are reasonable - are able to create an environment of trust and fairness. In such an
+environment, politics and infighting are sharply reduced and productivity is high. Talented
+people flock to the organization and aren't temted to leave. And self-regulation has a 
+trickle-down effect. No one wants to be known as a hothead when the boss is known for her
+calm approach. Fewer bad moods at the top means fewer throughout the organization.
+
+Second, self-regulation is important for competitive reasons. Everyone knows that business
+today is a rife with ambiguity and change. Companies merge and breat apart regularly. 
+Thechnology transforms work at a dizzying pace. People who have mastered their emotions 
+are able to roll with the changes. When a new program is announced, they don't panic; 
+instead, they are able to suspend judgment, seek out information, and listen to the 
+executives as they explain the new program. As the initiative moves forward, these people
+are able to move with it.
+
+Sometimes they even lead the way. Consider the case of a manager at a large manufacturing 
+company. Like her colleagues, she had used a certain software program for five years. The
+program drove how she collected and reported data and how she thought about the company's
+strategy. One day, senior executives announced that a new program was to be installed that
+would radically change how information was gathered and assessed within the organization. 
+While many people in the company complained bitterly about thos disruprive the change 
+would be, the manager mulled over the reason for the new program and was convinced of its
+potential to improve performance. She eagerly attended trainig session - some of ther
+collegues refused to do so - nd was eventually promoted to run several divisions, in part
+because she used the new technology so effectively.
+
+I want to push the importance of self-regulation to leadership even furthere and make the 
+case that it enhances integrigyt, which is not only a personal virtue but also an
+organizational strenght. Many of the bad things that happen in companies are a funciton of
+impulsive behaviour. People rarely plan to exaggerate profits, pad expense accounts, dip
+into the till, or abuse power for selfish ends. Instead, and opportunity presents itself,
+and people with low impulse control just say yes.
+
+By contrast, consider the behaviour of the senior executive at a large food company. The
+executive was scrupulously honest in his negotiations with local distributors. He would 
+routinely lay out his cost structure in detail, thereby giving the distributors a realistic
+understanding of the company's pricing. This approach meant the executive couldn't always
+drive a hard bargain. Now, on occasion, he felt the urge to increase profits by withholding
+information about the company's costs. But the challenged that impulse - he saw that it 
+made more sense in the long run to cunteract it. His emotional self-regulation paid off in
+strong, lasting releationships with distributors that benefited the company more than any
+short-term financial gains would have.
+
+The signs of emotional self-regulation, therefore, are easy to use: a propensity for 
+reflection and thoughtfulness; comfort with ambiguity and change; and integrity - an
+ability to say no to impulsive urges. 
+
+Like self-awarness, self-regulation often does not get its due. People who can master 
+their emotions are sometimes seen as cold fish - thieri considered responses are taken as
+a lack of passion. People with fiery temperaments are frequently thought of a "classic" 
+leaders - their otbursts are considered hallmarks of charisma and power. But when such 
+people make it to the top, their impulsiveness often works agains them. In my research, 
+extreame displays of negative emotion have never emerged as a driver of good leadership.
+
+## Motivation
+
+If there is one trait that virtually all effective leaders have, it is motivation. They 
+are driven to achieve beyond expectations - their own and everyone else's.
 
 
 
