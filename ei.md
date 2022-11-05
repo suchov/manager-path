@@ -392,10 +392,161 @@ a company without them.
 
 ## Empathy
 
-Of all
+Of all the dimensions of emotional intelligence, empathy is the most easily recognized. 
+We have all felt the empathy of a sensitive teacher or friend; we have all been struck by
+its absence in an unfeeling coach or boss. But when it comes to business, we rarely hear
+people praised, let alone rewarded, for their empathy. The very word seems unbusinesslike,
+out of place amid the tough realities of the marketplace.
+
+But empathy doesn't mean a kind of "I'm OK, you're OK" mushiness. For a leader, that is,
+it doesn't mean adopting other people's emotions as one's own and trying to please
+everybody. That would be a nightmare - it would make action impossible. Rather, empathy
+means thoughtfully considering employees' feelings - along with other factors - in the
+process of making intelligent decisions. 
+
+For an example of empathy in action, consider what happened when two giant brokerage
+companies merged, creating redundant jobs in all their divisions. One division manager
+called his people together and gave a gloomy speech that emphasized the number of people
+who would soon be fired. The manager of another division gave his people a differnt kind
+of speech. He ws up-front about his own worry and confusion, and he promised to keep
+people informed and to treat everyone fairly. 
+
+The difference between these two mangers was empathy. The first manager was too worried
+about his own fate to consider the feelings of his anxiety-stricken colleagues. The second
+knew intuitively what his people were feeling, and he asknowledged their fears with his 
+words. Is it any surprise that the first manger saw his division sink as many demoralized
+people, especially the most talanted, departed? By conrtast, the second manager
+continued to be a strong leader, his best people stayed, and his division remained
+as producitve as ever.
+
+Empathy is particularly important today as a component of leadership for at least
+three reasons: the increasing use of teams; the rapid place of globalization; and 
+the growing need to retain talent.
+
+Consider the challenge of leading a team. As anyone who has ever been a part of
+one can attest, teams are cauldrons of bubbling emotions. They are often charged
+with reaching a consensus - which is hard enough with two people and much more
+difficult as the numbers increase. Even in groups with as few as four or fice 
+members, alliances form and clashing agendas get set. A team's leader must be
+able to sense and understand the viewpoints of everyone around the table.
+
+That's exactly what a marketing manger at a large information technology company
+was able to do when she was appointed to lead a troubled team. The group was in
+turmoil, overloaded by work and missing deadlines. Tensions were high among the
+members. Thinkering with procedures was not enough to bring the group together
+and make it an effective part of the company.
+
+So the manger took several steps. In a series of one-on-one sessions, she took
+the time to listen to everyone in the groupw - what was frustrating them, how
+they rated their collegues, whether they felt they had been ignored. And then she
+directed the team in a way that brought it togethere: She encouraged people to
+speak more openly about their frustrations, and she helped people raise constructive
+complains during meetings. In short, her empathy allowed her to understand her
+team's emotional makeup. The result was not just heightened collaboration among
+members but also added business, as the team was called on for help by a wider
+range of internal clients.
+
+Globalization is another reason for the rising importance of empathy for business
+leaders. Cross-cultural dialogue can easily lead to miscues and misunderstandings.
+Empathy is an antidote. People who have it are attunded to subtletise in body
+language; they can hear the message beneath the words being spoken. Beyond that,
+they have a deep understanding of both the existence and the importance of cultural
+and ethnic differences.
+
+Consider the case of an American consultant whose team had just pitched a project 
+to a potential Japanese client. In its dealings with Americans, the team was 
+accustomed to being bombarded with question after such a proposal, but this time
+it was greeted with a long silence. Other members of the team, taking the silence
+as disapproval, were ready to pack and leave. The lead consultant gestured them 
+to stop. Although he was not practicarly familiar with Japanese culture, he read
+the client's face and posture and sensed not rejection but interest - even deep
+consideration. He was right: When the client finally spoke, it was to give the
+consulting firm the job.
+
+Finally, empathy plays a key role in the retention of talent, particularly in
+today's information economy. Leaders have always needed empathy to develop and
+keep good people, but today the stakes are higher. When good people leave, they
+take the company's knowledge with them.
+
+That's where coaching and mentoring come in. It has repeatedly been shown that
+coaching and mentoring pay off not just in better performance but also in 
+increased job satisfaction and decreased turnover. But what makes coaching and
+mentoring work best is the nature of the relationships. Outstanding coaches and
+mentors get inside the heads of the people they are helping. They sense how to 
+give effective feedback. They know when to push for better performance and when
+to hold back. In the way they motivate their proteges, they demonstrate empathy
+in action.
+
+In what is probably sounding like a refrain, let me repeat that empathy doesn't
+get much respect in business. People wonder how leaders can make hard decisions
+if they are "feeling" for all the people who will be affected. But leaders with
+empathy do more than sympathize with people around them: They use their knowledge
+to improve their companies in subtle but important ways.
 
 ## Social Skill
 
+The first three components of emotional intelligence are self-management skills.
+The last two, empathy and social skill, concern a person's ability to manage 
+relationships with oters. As a component of emotional intelligence, social skill
+is not as simple as it sounds. It's not just a matter of friendliness, although
+people with high levels of social skill are rarely mean-spirited. Social skill,
+rather, is friendliness with a purpose: moving people in the direction you desire,
+whether that's agreement on a new marketing strategy or enthusiasm about a new 
+product. 
+
+Socially skilled people tend to have a wide circle of acquaintances, and they have
+a knack for finding common group with people of all kinds - a knack for building
+rapport. That doesn't mean they socialize continually; it means they work
+according to the assumption that nothing important gets done alone. Such people 
+have a network in place when the time for action comes.
+
+Social skills is the culmination of the other dimentions of emotional intelligence.
+People tend to be very effective at managing relationships when they can 
+undrerstand and control their own emotions and can empathize with the feelings
+of others. Even motivation contributes to social skill. Remember that people who
+are driven to achieve tend to be optimistic, even in the face of setbacks or failure.
+When people are upbeat, their "glow" is sast upon conversations and other social
+encounters. The are popular, and for good reason. 
+
+Because it is the outcome of the other dimensions of emotional intelligence, 
+social skill is recognizable on the job in many ways that will by now sound 
+familiar. Socially skilled people, for instance, are adept at managing teams -
+that's their empathy at work. Likewise, they are expert persuaaders - a 
+manifestation of self-awareness, self-regulation, and empathy combined. Gieven
+those skills, good persuaders know when to make an emotional plea, for instance,
+and when an appeal to reason will work better. And motivation, when publicly
+visible, makes such people excellent collaborators; their passion for the work
+spreads to thers, and they are driven to find solutions.
+
+But sometimes social skill show itself in ways the other EI components do not. For
+instance, socially skilled people may at times appear not to be working while at
+work. They seem to be idly schmoozing - chatting in the hallways with colleagues
+or joking around with people who are not even connected to their "real" jobs.
+Socially skilled people, however, don't think it makes sense to arbitrarily limit
+the scope of their relationships. They build bonds widely becaue they know that
+in these fluid times, they may need help someday from people they are just getting
+to know today.
+
+For example, consider the case of an executive in the strategy department of a 
+global computer manufacturer. By 1993, he was convinced that the company's future
+lay with the Internet. Over the course of the next year, he found kindred spirits
+and used his social skill to stich together a virtual community that cut across
+level, divisions, and nations. He then used this de facto team to put up a
+corporate Web site, among the first by a major company. And, on his own initiative,
+with no budget or formal status, he signed up the company to participate in an
+annual Internet industry convention. 
+
+Calling on his allies and persuading various divisions to donate funds, he 
+recruited more than 50 people from a dozen different units to represent the 
+company at the convention. 
+
+Management took notice: Within a year of the conference, the executive's team
+formed the basis for the company's first Internet division, and he was formally
+put in charege of it. To get there, the executive had ignored conventional 
+boundaries, forging and maintaining connections with people in every corner of
+the organization.
+
+Is social skill
 
 
 
