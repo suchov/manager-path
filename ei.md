@@ -546,7 +546,25 @@ put in charege of it. To get there, the executive had ignored conventional
 boundaries, forging and maintaining connections with people in every corner of
 the organization.
 
-Is social skill
+Is social skill considered a key leadership capability in most companies? The answer is yes, especially when copared with the other components of EI. People seem to know intuitively that leaders need to manage relationships effectively; no leader in an island.
+After all, the leader's task is to get work done through other people, and social skill 
+makes that possible. A leader who cannot express her empathy may as well not have
+it at tall. And a leader's motivation will be useless if he cannot communicate his
+passion to the organization. Social skill allows leaders to put their emotional
+intelligence to work. 
+
+It would be foolish to assert that good-old-fashioned IQ and technicall ability
+are not important ingredients in strong leadership. But the recipe world not be 
+complete without emotional intelligence. It was once thought that the components 
+of EI were "nice to have" in business leaders. But now we know that, for the sake
+of performace, these are ingredients that leaders "need to have."
+
+It is fortunate, then, that EI can be learned. The process in not easy. It takes
+time and, most of all, commitment. But the benefits that comes from having a well-
+developed EI, both for the individuals and for the organization, make it worth the
+effort.
+
+
 
 
 
