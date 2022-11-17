@@ -3,7 +3,7 @@
 Most large companies today have employed trained psychologists to develop what are known 
 as “competency models” to aid them in identifying, training, and promoting likely stars 
 in the leadership firmament. The pshychologists have also developed such models for lower-
-level positions. And in recent years, I have analyzed competency models from 188 compannes.
+level positions. And in recent years, I have analyzed competency models from 188 companies.
 
 In carrying out this work, my objective was to determine which personal capabilities 
 drove outstanding performance within these organizations, and to what degree they did so.
@@ -27,7 +27,7 @@ vision.
 What distinguishes great leaders from merely good ones? It isn't IQ or technical skills,
 says Daniel Goleman. It's emotional intelligence: a group of five skills that enable the 
 best leaders to maximize their own and their followers' performance. When senior managers
-at one company had a critical mass of EI capabilities, hteir divisions outperformed yearly
+at one company had a critical mass of EI capabilities, their divisions outperformed yearly
 earnings goals by 20%.
 
 #### The EI skills are:
