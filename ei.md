@@ -72,7 +72,7 @@ Social Skill | Managing relationships to move people in desired directions | * E
 #### Use practice and feedback from others to strengthen specific EI skills.
 
 Example: An executive learned from others that she lacked empathy, especially the ability
-to listen. She wanted to fix the problem, so she asked a coach ot tell her when she 
+to listen. She wanted to fix the problem, so she asked a coach to tell her when she 
 exhibited poor listening skills. She then role-played incidents to practice giving 
 better responses; for example, not interrupting. She also began observing executives 
 skilled at listening - and imitated their behaviour.
